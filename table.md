@@ -35,10 +35,14 @@ iMac  |10000元 |5
 
 <table>
    <tr>
-        <th width=20%>列宽 `width=20%`</th>
-        <th width=45% style="text-align:center">表头居中 `style="text-align:center"`</th>
-        <th widht=20% style="text-align:right">居右</th>
-        <th widht=5%>列3</th>
+        <th width=20%>   
+           列宽 `width=20%` 
+         </th>
+        <th width=45% style="text-align:center">
+           表头居中 `style="text-align:center"`  
+        </th>
+        <th widht=20% style="text-align:right">  居右  </th>
+        <th widht=5%>  列3  </th>
    </tr>
    <tr>
         <td >设置背景色 </td>
@@ -69,6 +73,7 @@ iMac  |10000元 |5
 </table>
 
 可设置列宽（通过th、td均可以设置）、单元格背景色、合并列、合并行。
+
 代码展示
 ```html
 <table>
